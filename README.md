@@ -56,5 +56,5 @@ This is a simple and secure desktop application to **encrypt and decrypt files**
 ## 👨‍💻 Author
 
 - **Author**: Vikas Lalchand Mallah  
-- **Email**: vikas.malllah@dyptmail.edu.in  
+- **Email**: vikasmallah19@gmail.com  
 - **Institution**: DY Patil International University  
